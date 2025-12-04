@@ -1,0 +1,15 @@
+Mini-schéma BI (schéma en étoile — texte)
+
+Table de faits : fact_sales
+
+vente_id, date_id, store_id, product_id, payment_id, quantity, unit_price, amount, purchase_price, marge_ligne, transaction_id
+
+Dimensions :
+
+dim_store(store_id, name, city, region, manager)
+
+dim_product(product_id, name, category, brand)
+
+dim_date(date_id, date, year, month, day, week, is_weekend)
+
+dim_payment(payment_id, payment_method)
