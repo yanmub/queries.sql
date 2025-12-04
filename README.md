@@ -1,2 +1,3 @@
-# queries.sql
-Requêtes SQL demandées
+# Recrutement Formateur Data analyse  
+Test technique
+
