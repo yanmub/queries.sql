@@ -1,0 +1,10 @@
+          D_Magasin
+              |
+              |
+          F_Ventes --- D_Produit
+              |
+              |
+         D_ModePaiement
+              |
+              |
+           D_Temps
